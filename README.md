@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juanda</h1>
 <h3 align="center">2nd Degree System Information Student at Telkom University</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“
-￼
-”>
+<img align=“right” alt=“coding” width=“400” src=“e426702edf874b181aced1e2fa5c6cde.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkwkland69&label=Profile%20views&color=0e75b6&style=flat-square" alt="wkwkland69" /> </p>
 
