@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Juanda</h1>
+![image](https://github.com/wkwkland69/wkwkland69/assets/51428441/61825afe-2974-4af9-8859-4faabe4207bb)[<h1 align="center">Hi 👋, I'm Juanda</h1>
 <h3 align="center">2nd Degree System Information Student at Telkom University</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“![gif](https://github.com/wkwkland69/wkwkland69/assets/51428441/4a096413-1061-49ff-aa71-871a7ee201fa)
+<img align=“right” alt=“coding” width=“400” src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3dC7p7qoh82dO0xfMo5em_&ust=1690287733569000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCOjGzNGqp4ADFQAAAAAdAAAAABBy![image](https://github.com/wkwkland69/wkwkland69/assets/51428441/e3ac2524-df2c-4b11-a581-006d6ccb4272)
 ”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkwkland69&label=Profile%20views&color=0e75b6&style=flat-square" alt="wkwkland69" /> </p>
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wkwkland69&show_icons=true&theme=tokyonight&locale=en" alt="wkwkland69" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwkland69&theme=dark" alt="wkwkland69" /></p>
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3dC7p7qoh82dO0xfMo5em_&ust=1690287733569000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCOjGzNGqp4ADFQAAAAAdAAAAABBy)
