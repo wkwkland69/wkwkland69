@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juanda</h1>
 <h3 align="center">2nd Degree System Information Student at Telkom University</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9&psig=AOvVaw3dC7p7qoh82dO0xfMo5em_&ust=1690287733569000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCOjGzNGqp4ADFQAAAAAdAAAAABBC![image](https://github.com/wkwkland69/wkwkland69/assets/51428441/30ff742d-c49b-4993-ae1c-f924dc7df77e)
+<img align=“right” alt=“coding” width=“400” src=“![image](https://github.com/wkwkland69/wkwkland69/assets/51428441/30ff742d-c49b-4993-ae1c-f924dc7df77e)
 ”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkwkland69&label=Profile%20views&color=0e75b6&style=flat-square" alt="wkwkland69" /> </p>
