@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="<div style="width:100%;height:0;padding-bottom:94%;position:relative;"><iframe src="https://giphy.com/embed/B4dt6rXq6nABilHTYM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM">via GIPHY</a></p>" width=30>, I'm Muhammad Muhammad Juanda</h1>
-<h3 align="center">2nd Years Information System Student at Telkom University. </h3>
-<div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-</div>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hananfarizta&theme=discord" alt="hananfarizta" /></a> </p>
-<img src="https://media.giphy.com/media/o7f8rvkZIbtgKP93iq/giphy.gif" align="right">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=30>, I'm Muhammad Muhammad Juanda</h1>
+ <h3 align="center">2nd Years Information System Student at Telkom University. </h3>
+ <div align="center">
+ <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+ </div>
+ <br>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hananfarizta&theme=discord" alt="hananfarizta" /></a> </p>
+ <img src="https://media.giphy.com/media/o7f8rvkZIbtgKP93iq/giphy.gif" align="right">
 
 - 🔭 I’m currently working on nothing [-](-)
 
