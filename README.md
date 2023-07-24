@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Juanda</h1>
-<h3 align="center">2nd Degree System Information Student at Telkom University</h3>
-
-<gif align=“right” alt=“coding” width=“400” src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3dC7p7qoh82dO0xfMo5em_&ust=1690287733569000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCOjGzNGqp4ADFQAAAAAdAAAAABBy](https://github.com/wkwkland69/wkwkland69/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true)”>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wkwkland69&label=Profile%20views&color=0e75b6&style=flat-square" alt="wkwkland69" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wkwkland69" alt="wkwkland69" /></a> </p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=30>, I'm Muhammad Muhammad Juanda</h1>
+<h3 align="center">2nd Years Information System Student at Telkom University. </h3>
+<div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+</div>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hananfarizta&theme=discord" alt="hananfarizta" /></a> </p>
+<img src="https://media.giphy.com/media/o7f8rvkZIbtgKP93iq/giphy.gif" align="right">
 
 - 🔭 I’m currently working on nothing [-](-)
 
