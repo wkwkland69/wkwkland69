@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juanda</h1>
 <h3 align="center">2nd Degree System Information Student at Telkom University</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw3dC7p7qoh82dO0xfMo5em_&ust=1690287733569000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCOjGzNGqp4ADFQAAAAAdAAAAABAJ”>
+<img align=“right” alt=“coding” width=“400” src=“
+￼
+”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkwkland69&label=Profile%20views&color=0e75b6&style=flat-square" alt="wkwkland69" /> </p>
 
